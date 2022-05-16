@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonjo7Dia
 - 👀 I’m interested in web development have my eyes on blockchain development
-- 🌱 I’m currently learning basic web development and creating my first project!
+- 🌱 I’m currently learning Node.js and using it to build my first project using a backend
 - 💞️ I’m looking to collaborate on anything really just want to learn as much as I can
 - 📫 How to reach me jonathan.hjelmstrom@gmail.com 
 
