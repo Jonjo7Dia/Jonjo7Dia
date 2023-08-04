@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Jonjo7Dia
-- 👀 I’m interested in web development have my eyes on blockchain development
-- 🌱 I’m currently learning Node.js and using it to build my first project using a backend
-- 💞️ I’m looking to collaborate on anything really just want to learn as much as I can
-- 📫 How to reach me jonathan.hjelmstrom@gmail.com 
+👋 Hi, I’m @Jonjo7Dia
+👨‍💻 I'm a Web Developer at Bokio, building dynamic applications and engaging in exciting freelance projects using tools like Nextjs and React, backed by different CMS. I also create applications leveraging OpenAI's API.
+👀 Passionate about web development and keeping an eye on the emerging field of blockchain development.
+💡 Eager to collaborate on diverse projects. Always seeking to learn and grow in this ever-changing field.
+📫 Reach out to me at jonathan.hjelmstrom@gmail.com, and let's build something amazing together!
 
-<!---
-Jonjo7Dia/Jonjo7Dia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
